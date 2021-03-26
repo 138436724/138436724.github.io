@@ -1,3 +1,4 @@
-天动万象 [^order]。
+Bla bla <sup id="a1">[1](#f1)</sup>
+然后从脚注中链接回来。
 
-[^order]: I will have order.
+<b id="f1">1</b> Footnote content here. [↩](#a1)
