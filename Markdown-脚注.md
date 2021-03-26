@@ -1,3 +1,3 @@
-I will have order [^天动万象]。
+天动万象 [^order]。
 
-[^天动万象]: I will have order.
+[^order]: I will have order.
