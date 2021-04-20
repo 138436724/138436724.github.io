@@ -1,6 +1,6 @@
 ---
 layout: post
-author: WangDi
+author: Kong
 ---
 
 ```python

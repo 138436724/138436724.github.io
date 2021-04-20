@@ -1,6 +1,6 @@
 ---
 layout: post
-author: WangDi
+author: Kong
 ---
 # Hello World
 ## Hello beautiful world
