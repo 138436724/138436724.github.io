@@ -1,7 +1,0 @@
----
-layout: post
-title:  "你好"
-date:   2021-03-30 17:03:52 +0800
-categories: jekyll update
----
-hello world
