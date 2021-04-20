@@ -2,15 +2,18 @@
 layout: post
 author: Kong
 ---
-# Hello World
-## Hello beautiful world
-*markdown*没有想象中的那么艰难，比起HTML似乎要简单不少  
-不过**markdown**没有那么丰富的控件，而且也支持HTML的部分写法
-- - - 
-markdown比HTML简单太多了~~我最喜欢的就是这个~~。
-* 这生成
-    - 一个列表不是
-    - 轻轻松松  
-
->这个可以无限嵌套
->> 某些时候比列表方便且好看  
+# Web应用软件开发实训-第二次作业-开发一个静态网站
+[Github网址](https://github.com/138436724/138436724.github.io)
+## 网站目录结构
+![目录](/image/catalog.png)
+## 网站截图
+![首页](/image/homepage.png)
+![博客](/image/blog.png)
+![文章](/image/page.png)
+![staff](/image/staff.png)
+![about](/image/about.png)
+![writer](/image/writer.png)
+## 实验过程
+按照jekyll入门网站仿制一个初始网页，然后在对其中部分进行修改，达到预期效果
+## 总结
+这个实验里面各种坑真的多，一一避开之后看到网站还是蛮有成就感的。
